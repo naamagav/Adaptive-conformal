@@ -1,4 +1,4 @@
-# Authors: Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
+# Adapted from experiments-conformal-superres by Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
 # Variance-based uncertainty mask generation
 
 import torch

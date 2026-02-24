@@ -1,4 +1,4 @@
-# Authors: Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
+# Adapted from experiments-conformal-superres by Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
 # Compute average mask coverage statistics
 
 import os

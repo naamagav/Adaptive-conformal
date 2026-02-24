@@ -1,4 +1,4 @@
-# Authors: Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
+# Adapted from experiments-conformal-superres by Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
 # Protocol definition for super-resolution model interface
 
 from typing import Protocol

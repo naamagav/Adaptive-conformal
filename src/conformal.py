@@ -1,4 +1,4 @@
-# Authors: Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
+# Adapted from experiments-conformal-superres by Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
 # Core conformal calibration implementation with dynamic programming and bisection search
 # for computing risk-controlling thresholds in super-resolution
 

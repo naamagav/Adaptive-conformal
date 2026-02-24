@@ -1,4 +1,4 @@
-# Authors: Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
+# Adapted from experiments-conformal-superres by Eduardo Adame, Daniel Csillag, Guilherme Tegoni Goedert
 # Generate results tables for paper
 
 import os
