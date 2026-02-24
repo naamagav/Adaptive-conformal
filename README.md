@@ -102,7 +102,7 @@ python -m src.calculations.calculate_psnr
 # Calculate average mask coverage and fidelity error
 python -m src.calculations.calculate_avg_mask
 
-# Calculate the full tables (Table 1 and Table 2)
+# Calculate the full tables (Table 1 or Table 2)
 python -m src.calculations.calculate_table
 ```
 
