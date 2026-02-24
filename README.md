@@ -1,4 +1,4 @@
-# Image Super-Resolution with Guarantees via Conformalized Generative Models
+# Image Super-Resolution with Guarantees via Adaptive Conformalized Generative Models
 This repository contains the code for our adaptation of the Image Super-Resolution with Guarantees via Conformalized Generative Models project. We used an adaptive variance approach and compared our results to the standard variance calculation from the paper.
 
 ## Attribution
