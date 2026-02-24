@@ -47,7 +47,7 @@ Uncertainty masks are generated based on variance across multiple super-resoluti
 ### Utilities and Setup
 
 - **`src/create_LR.py`**: Utility to generate low-resolution images from datasets
-- **`src/creating_diff_masks.py`**: Utility to generate diff masks between the full resolution images and the SinSR predictions
+- **`src/creating_diff_masks.py`**: Utility to generate difference masks between the full resolution images and the SinSR predictions
 - **`src/figures/`**: Figure generation scripts (e.g., `fig1.py`, `fig2.py`)
 
 ## Usage
