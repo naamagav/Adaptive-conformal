@@ -130,7 +130,7 @@ src/datasets/
       Street/
 ```
 
-You can change the location of the datasets folder and change the `root_path` variable in all scripts accordingly. We included a few samples, but for calibration, much more data is needed. 
+You can change the location of the datasets folder and change the `root_path` variable in all scripts accordingly.
 
 ## Citation
 
